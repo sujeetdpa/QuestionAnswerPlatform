@@ -69,7 +69,6 @@ captured.
                 Api- /subtopic/add
                 Headers- Content Type : application/json
                 Body- {
-
                 "name":"SubTopic Name",
                 "topic":{
                 "id":"Topic_Id",
@@ -84,7 +83,6 @@ captured.
                 "name": "Data Structure"
                 }
                 }
-            </li>
             <li>
                 Updating SubTopic Details<br>
                 Request Type- PUT
@@ -341,7 +339,6 @@ captured.
                 "tags":["1","2"]
                 }
             </li>
-
         </ul>
     </li>
     <li>
