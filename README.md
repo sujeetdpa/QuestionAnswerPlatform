@@ -7,9 +7,9 @@ captured.
     In order to use the apis the initial URL Pattern <br>
     If Running on local machine http://localhost:8080<br>
     If Running on Cloud http://ip_of_machine:8080<br>
-</h4><br>
+</h4>
 <h5>You can use Postman or any other application to make/test these apis</h5>
-<br><br>
+<br>
 <ol type="1">
     <li>
         <h4>CRUD APIs For Company Entity.</h4>
